@@ -1,0 +1,22 @@
+* TODO Gacha Maker
+:PROPERTIES:
+:CREATED:  [2024-08-14 Wed 20:55]
+:END:
+
+Make a gacha maker like rpg maker out of vanilla javascript
+
+** How
+:PROPERTIES:
+:CREATED:  [2024-08-14 Wed 20:55]
+:END:
+
+- make a window for the visual representation of the game
+- window for the developer tools
+
+** TODO Idea
+:PROPERTIES:
+:CREATED:  [2024-08-14 Wed 20:57]
+:END:
+
+See how rpgmaker works
+

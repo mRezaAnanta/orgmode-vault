@@ -1,0 +1,108 @@
+* Genre
+:PROPERTIES:
+:CREATED:  [2024-07-27 Sat 09:54]
+:END:
+
+Visual Novel with 2d click adventure navigation (treasure monkey island)
+
+* Game Mechanic
+:PROPERTIES:
+:CREATED:  [2024-07-27 Sat 09:55]
+:END:
+
+** Personal Stat
+:PROPERTIES:
+:CREATED:  [2024-07-27 Sat 09:58]
+:END:
+
+*** Faith
+:PROPERTIES:
+:CREATED:  [2024-07-27 Sat 09:59]
+:END:
+
+*** Resourcefulness
+:PROPERTIES:
+:CREATED:  [2024-07-27 Sat 10:00]
+:END:
+
+*** Charisma
+:PROPERTIES:
+:CREATED:  [2024-07-27 Sat 10:00]
+:END:
+
+** Scenario Trigger
+:PROPERTIES:
+:CREATED:  [2024-07-27 Sat 10:13]
+:END:
+
+- personal stat reached a certain points
+- arrived at a certain destination
+- reached a time limit playing
+- reached a certain number of relationship stat with a certain individual 
+
+** Scenario Solve
+:PROPERTIES:
+:CREATED:  [2024-07-27 Sat 10:24]
+:END:
+
+* TODO Codebase
+:PROPERTIES:
+:CREATED:  [2024-07-27 Sat 09:59]
+:END:
+
+** Location
+:PROPERTIES:
+:CREATED:  [2024-07-27 Sat 10:33]
+:END:
+
+Every location has a tag (a1, a2 etc) to indicate it's location inside the code base
+JavaScript Object
+
+** Function
+:PROPERTIES:
+:CREATED:  [2024-07-27 Sat 10:39]
+:END:
+
+*** scenarioTrigger
+:PROPERTIES:
+:CREATED:  [2024-07-27 Sat 10:42]
+:END:
+
+Parameter
+- location
+- 
+
+* Flowchart
+:PROPERTIES:
+:CREATED:  [2024-07-27 Sat 10:02]
+:END:
+
+* Scenarios
+:PROPERTIES:
+:CREATED:  [2024-07-27 Sat 10:02]
+:END:
+
+** Ghost Night Market
+:PROPERTIES:
+:CREATED:  [2024-07-27 Sat 10:04]
+:END:
+
+* Idea capture
+:PROPERTIES:
+:CREATED:  [2024-07-30 Tue 00:40]
+:END:
+
+When you get to the next location, game will check if the scenario trigger is fulfilled (certain location with forced scenario, player stat etc)
+
+* Game Asset
+:PROPERTIES:
+:CREATED:  [2024-07-30 Tue 00:44]
+:END:
+
+Includes :
+- Location
+- Arrow Navigation
+- Player profile picture 
+- Npc profile picture
+- Scenario (unique)
+

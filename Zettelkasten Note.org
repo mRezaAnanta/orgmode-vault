@@ -1,0 +1,10 @@
+* The Peter Principle :term:management:
+:PROPERTIES:
+:url:      https://www.investopedia.com/terms/p/peter-principle.asp
+:END:
+
+- competency is a noticeable and recognizable output of work by the employee
+- The employee is getting promoted or not because of his competence
+- once getting promoted or moved to a different job with different requirements he might not look as competent as before
+- the company/organisation must provide adequate skill training for those who were promoted or moved to a different job
+

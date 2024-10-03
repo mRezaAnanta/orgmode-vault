@@ -1,0 +1,97 @@
+* Ringkasan Tata Cara Shalat
+:PROPERTIES:
+:author:   [[http://penerbitzamzam.com/penulis/dr-ahmad-bin-muhammad-al-khalil/][Prof. Dr. Ahmad bin Muhammad Al-Khalil]]
+:year:     2019
+:END:
+
+** TODO Perbaiki external links
+** Tata Cara Shalat
+
+"Jika kamu hendak mengerjakan shalat, maka sempurnakanlah wudhu, lalu menghadap ke arah Kiblat, setelah itu bertakbirlah, kemudian bacalah ayat-ayat A;-Quran yang mudah bagimu. Kemudian rukuklah hingga kamu rukuk dengan tenang, dan bangkitlah dari rukuk hingga kamu berdiri tegak. Lalu sujudlah hingga kamu sujud dengan tenang, dan bangkitlah hingga kamu duduk dengan tenang, lalu bangkitlah hingga kamu duduk dengan tenang, dan kerjakanlah semua hal tersebut pada seluruh shalatmu." [[* HR. Bukhari (6251)][HR. Bukhari (6521)]] dan [[* HR. Muslim (397)][HR. Muslim (397)]]
+
+** Persiapan untuk Shalat
+*** Wudhu
+
+- wajib berwudhu. [[* QS. Al-Ma'idah:6][QS. Al-Ma'idah:6]]
+- disunnahkan untuk memperbaharui wudhu sebelum shalat. [[* HR. Bukhari (214)][HR. Bukhari (214)]]
+
+*** Adab Masjid
+
+- melaksanakan shalat Tahiyat Masjid sebelum duduk. [[*][Muttafaq 'Alaih [3] Majmu' Al-Fatawa: (22/494)]]
+- duduk menunggu waktu iqamah dikumandangkan sambil berzikir dan membaca Al-Quran. [[* HR. Bukhari (659)][HR. Bukhari (659)]]
+- imam wajib meluruskan saf-saf
+
+** Shalat
+*** Niat Shalat
+
+merupakan syarat shalat wajib.
+
+*** Takbiratulihram
+
+merupakan rukun shalat
+- disunnahkan untuk bertakbir bersamaan dengan mengangkat kedua tangan
+- posisi jari jemari diluruskan dan dirapatkan, karena lebih dekat kepada khusyuk daripada direnggangkan atau dikepalkan
+- posisi kedua tangan sejajar dengan kedua pundak atau kedua telinga
+- bagi wanita sebagian ulama mengatakan bahwa mengangkat kedua tangan lebih rendah dan tidak perlu tinggi seperti laki-laki
+- wajib bagi imam mengeraskan suara saat bertakbir
+
+*** TODO Qiyaam (Berdiri) [cari sumber dalil]
+
+merupakan rukun shalat
+- jika tidak mampu berdiri (sakit dll) sehingga menghilangkan kekhusyukan maka boleh duduk/tidur [[file:./Getting Started with Orgzly.org::*Search][QS. At-Tagaabun:16]] [[*][HR. Bukhari (7288)]] [[*][HR. Muslim (1337)]]
+- syarat berdiri bagi yang mampu hanya ada di dalam shalat wajib
+- melipatkan kedua tangan saat berdiri, dengan meletakkan tangan kanannya di atas lengan tangan kiri. posisi tangannya bebas diletakkan di atas pusar/diantara dada dan perut karena tidak ada dalil sahih mengenai hal tersebut [[*][HR. Bukhari (740)]] [[*][HR. Muslim (401)]]
+
+*** Pandangan Mata
+
+melihat ke tempat sujud, jika mengangkat pandangannya maka ia telah menyelisihi sunnah
+
+*** TODO Doa Iftitah [Sertakan doa dan dalil]
+
+ada beberapa macam doa iftitah dan semuanya diperbolehkan. sunnah membaca dengan pelan/tidak mengeraskan suara.
+
+*** Doa istiazah
+
+sunnah membaca doa istiazah sebelum membaca Al-Faatihah dengan pelan. [[*][QS. An-Nahl:98]]
+- A'uzu billaahi minasy-syaitaanir-rajiim
+
+*** Basmalah
+
+disyariatkan bagi orang shalat setelah membaca istiazah dan sebelum membaca Al-Faatihah. [[*][HR. Nasai (905)]]
+
+*** Membaca Surah Al-Faatihah
+
+rukun shalat. [[*][HR. Bukhari (756)]] [[*][HR. Muslim (394)]] [[*][HR. Muslim (395)]]
+- wajib belajar membaca
+- jika tidak bisa juga maka harus membaca dzikir
+- disyariatkan bagi imam untuk mengeraskan suaranya pada saat shalat Isya, Magrib dan Subuh (Shalat Jahriyyah) dan mengecilkan suara pada saat shalat dzuhur dan asar (Shalat Sirriyyah)
+- harus melafalkan -yaitu menggerakkan lidahnya- bacaan dan dzikir yang sifatnya wajib. [[*][Mukhtasar Al-Fataawaa Al-Misriyyah (43)]]
+- makmum tidak perlu membaca ayat pada Shalat Jahriyyah, apabila ia mendengar bacaaan imam, seperti bacaan Surah Al-Faatihah maupun bacaan surah-surah yang lain. [[*][Majmuu Al-Fataawaa]]
+
+*** Mengucapkan "Aamiin" setelah Al-Faatihah
+
+merupakan sunnah
+- [[*][Munfarid]] (orang yang shalat sendirian) mengucapkan "Aamiin" setelah dirinya membaca Al-Faatihah
+- Imam mengucapkan "Aamiin" membaca Al-Faatihah
+- Imam dan makmum mengeraskan bacaan "Aamiin" dan disyariatkan bagi makmum mengucapkan "Aamiin" bersamaan dengan imam [[*][HR. Bukhari (780)]] [[*][HR. Muslim (410)]]
+
+*** TODO Bacaan setelah Al-Faatihah [cari sumber dalil]
+
+- disunnahkan untuk membaca sebuah surah pada dua rakaat yang pertama saja 
+- bacaannya dikeraskan pada shalat yang dikeraskan Al-Faatihah dan dipelankan pada shalat yang dipelankan Al-Faatihah
+- memperlama bacaan pada rakaat pertama
+- disunnahkan bagi imam di waktu subuh pada hari jumat membaca surah As-Sajadah dan Al-Insaan [[*][Badaa'i Al-Fawaa'id (4/63)]]
+
+*** Memperlama bacaan shalat
+
+- disunnahkan membaca satu surah dengan sempurna atau boleh membaca sebagian surah dari awalnya saja [[*][HR. Nasai (991)]] [[*][HR. Bukhari (765)]] [[*][HR. Muslim (463)]]
+- dibolehkan membaca ayat-ayat terakhir dari surah tertentu, akan tetapi dimakruhkan terus-menerus melakukannya
+- membaca dalam shalat Magrib dengan Qisaar Al-Mufassal (surah-surah pendek dari surah Ad-Duhaa sampai An-Naas)
+- membaca dalam shalat Subuh dengan Tiwaal Al-Mufassal (surah-surah panjang dari Qaaf sampai An-Naba)
+- sementara shalat Isya, Zuhur dan Asar dengan Awsaat Al-Mufassal (surah-surah yang pertengahan dari surah An-Naba hingga Ad-Duhaa) [[*][HR. Nasai (982)]] [[*][HR. Ibnu Majah (827)]] [[*][HR. Ahmad (7991)]] [[*][HR. Tirmizi (307)]]
+
+* Tafseer As-Sa'di Vol 1 Juz 1
+:PROPERTIES:
+:CREATED:  [2024-09-06 Fri 22:39]
+:END:
+
