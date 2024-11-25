@@ -137,8 +137,8 @@ CLOSED: [2024-10-03 Thu 10:24] SCHEDULED: <2024-10-03 Thu>
 - kertas a4 sidu 1rim
 - pulpen kenko k1 11ktk
 
-* TODO [#A] Fix Leaking Faucet di Toko Lantai 2
-SCHEDULED: <2024-10-03 Thu>
+* DONE [#A] Fix Leaking Faucet di Toko Lantai 2
+CLOSED: [2024-10-04 Fri 10:17] SCHEDULED: <2024-10-03 Thu>
 :PROPERTIES:
 :CREATED:  [2024-10-02 Wed 19:25]
 :END:

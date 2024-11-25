@@ -1,0 +1,275 @@
+* Fundamentals | 8 kyu
+
+** Reversed Strings
+** Rock Paper Scissors
+
+*** My solution
+    // i don't think i need to explain more lol
+const rps = (p1, p2) => {
+  console.log(p1 + ":" + p2)
+  if (p1 == "scissors" && p2 == "paper") return "Player 1 won!"
+  if (p1 == "scissors" && p2 == "rock") return "Player 2 won!"
+  if (p1 == "paper" && p2 == "rock" ) return  "Player 1 won!" 
+  if (p1 == "paper" && p2 == "scissors" ) return  "Player 2 won!" 
+  if (p1 == "rock" && p2 == "scissors" ) return  "Player 1 won!"
+  if (p1 == "rock" && p2 == "paper" ) return  "Player 2 won!"
+  if (p1 == p2) return "Draw!"
+};
+
+*** Best solution
+const rps = (p1, p2) => {
+    // make an obj which get the value of whichever the p1 is
+    // ex: if p1 is rock then get the value of rock properties inside of rules obj which is scissors
+  const rules = {
+    'scissors': 'paper',
+    'rock': 'scissors',
+    'paper': 'rock'
+  };
+    // if the value of p1 inside of rules obj is equal to p2 then p1 won
+    // if the value of p1 itself is equal to p2 then Draw else p1 won
+  return rules[p1] === p2 ? 'Player 1 won!' : p1 === p2 ? 'Draw!' : 'Player 2 won!';
+};
+
+
+* Fundamentals | 7 kyu
+
+** Beginner Clock
+
+*** My solution
+    // making some kind of restrain so that the h, m, and s don't go above their limit
+    // obviously there's an easier js method for this but ehhh ig
+    function past(h, m, s) {
+      let result = 0;
+      0 <= h <= 23 ? result += h * 3600000 : result += 0
+      0 <= m <= 59 ? result += m * 60000 : result += 0
+      0 <= s <= 59 ? result += s * 1000 : result += 0
+      return result;
+    }
+
+*** Best solution
+    // i don't think i need to explain this lol
+    function past(h, m, s){
+      return ((h*3600)+(m*60)+s)*1000;
+    }
+
+** Find the next perfect square
+
+*** My solution
+
+*** Best solution
+    // Math.sqrt is a method to find the square root of the number (if sq = 64 then its sqrt is 8)
+    // Why Math.sqrt is being modulus to 1? because we're looking for a perfect square (perfect square is a square that is a product of an integer by itself)
+    // Math.pow(x, y) is a method that returns the x value to the power of y (if x is 3 and y is 2 then the answer is 9)
+    function findNextSquare(sq) {
+      return Math.sqrt(sq)%1? -1 : Math.pow(Math.sqrt(sq)+1,2);
+    }
+
+** Growth of a Population
+
+*** My solution
+// for some reason it didn't pass the random test
+function nbYear(p0, percent, aug, p) {
+  let cur = p0
+  let res = 0
+  let a = 0
+  for(let i = 0; a <= p; res++) {
+    a = Math.floor(cur += ((cur * (percent * 0.01)) + aug))
+  }
+  return res
+}
+
+*** Best solution
+function nbYear(p0, percent, aug, p) {
+  var count = 0;
+  while (p0 < p) {
+    p0 = Math.floor((1 + percent / 100) * p0 + aug);
+    count++
+  } 
+  return count;
+}
+
+** Find the Stray number
+
+*** My solution
+*** Best solution
+function stray(numbers) {
+  let a = numbers.sort();
+  return a[0] != a[1] ? a[0] : a[a.length-1]
+}
+
+** Isogram
+
+*** My solution
+*** Best solution
+function isIsogram(str){
+  // i need to learn more about regex lol
+  return !str.match(/([a-z]).*\1/i);
+}
+
+* Rank Up | 6 kyu
+** Unique In Order
+
+*** My solution
+*** Best solution
+    // the 3 dots inside of array is a [[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax][Spread Syntax]]
+    // using filter method we can then get the value that doesn't match the value at the previous index (using arr[i-1])
+    var uniqueInOrder=function(iterable){
+      return [...iterable].filter((x, i, arr) => x !== arr[i-1])
+    }
+
+** Playing with Digits
+
+*** My solution
+function digPow(n, p) {
+  // change each char inside of n into array
+  const arr = n.toString().split('')
+  let sum = 0
+  // sum up the value of arr using for loop
+  for (let i = 0; i < arr.length; i++) {
+    sum += arr[i] ** p
+    p++
+  }
+  // if sum modulus by n equals to 0 then the answer is sum divide by n 
+  // otherwise the answer is -1 (it means that the sum can't be divide by n)
+  return sum % n == 0 ? sum / n : -1
+}
+
+digPow(89, 1) //n = 89; p = 1 ---> 1 since 8¹ + 9² = 89 = 89 * 1
+
+*** Best solution
+function digPow(n, p) {
+  // using reduce to sum up the number 
+  var x = String(n).split("").reduce((total, current, index) => total + Math.pow(current, p + index), 0)
+  return x % n ? -1 : x / n
+}
+
+** Duplicate Encoder
+
+*** My solution
+function duplicateEncode(word){
+  let arr = word.toLowerCase().split('')
+  let res = []
+  for (let i = 0; i < arr.length; i++) {
+    //filter for the word in arr if it match with arr[i] and return it's length
+    // if it's bigger than one then return ")" else return "("
+    arr.filter(w => w == arr[i]).length > 1 ? res.push(")") : res.push("(")
+  }
+  return res.join('')
+}
+
+*** Best solution
+function duplicateEncode(word){
+  return word.toLowerCase().split('').map((a, i, w) => w.indexOf(a) == w.lastIndexOf(a) ? '(' : ')').join('');
+}
+
+** Delete Occurences of an if it happens more than n times
+
+*** My solution
+function deleteNth(arr, n){
+  return arr.reduce((tot, cur) => tot.filter((x) => cur == x).length < n ? tot.concat(cur) : tot, []);
+}
+
+*** Best solution
+function deleteNth(arr, x){
+  return arr.reduce(function(a, v){
+    return count(a, v) < x ? a.concat(v) : a;
+  }, []);
+}
+
+function count(arr, z){
+  return arr.filter(function(q){ return z == q }).length;
+}
+
+** Replace With Alphabet Position
+
+*** My solution
+function alphabetPosition(text) {
+  // array of alphabet so we can get it's index
+  let arr = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
+  // change it to toLowerCase first and then check each word using map() if it includes the alphabet inside of arr
+    // if it exist then change the value into the indexOf the alphabet + 1 (because the index start at 0 not 1)
+    // if it's not exist then change it to "$" which will be cut out using filter()
+  return text.toLowerCase().split('').map((x, i, a) => arr.includes(x) ? arr.indexOf(x) + 1 : "$").filter(w => w !== "$").join(' ')
+}
+
+*** Best solution
+function alphabetPosition(text) {
+  return text.toLowerCase()
+    .split('')
+    // filter the non alphabet using charCodeAt() since the code for it is between 96 and 123
+    .filter(c => c.charCodeAt(0) < 123 && c.charCodeAt(0) > 96)
+    // change the value to minus - 96 so we can get the value like "a" to 1, "b" to 2 so on and so forth
+    .map(c => c.charCodeAt(0) - 96)
+    .join(' ');
+}
+
+** Break camelCase
+
+*** My solution
+function solution(string) {
+  let regex = /[A-Z]/g
+  let res = []
+  let arr = string.split('')
+  for(let i = 0; i < arr.length; i++) {
+    arr[i].match(regex) ? res.push(" ", arr[i]) : res.push(arr[i])
+  }
+  return res.join('')
+}
+
+*** Best solution
+// complete the function
+function solution(string) {
+  // replace whichever string that match [A-Z] alphabet and change it to " $&"
+    // the pattern of $& according to mdn article about replace() method means "inserts the matched substring"
+    // meaning to insert again the initial matched substring/alphabet
+  return string.replace(/([A-Z])/g, ' $&')
+}
+
+** Mexican Wave
+
+*** My solution
+function wave(str){
+  let arr = []
+  for (let i = 0; i < str.length; i++) {
+    // to avoid the whitespace
+    if (str[i] == " ") i++
+    arr.push(str.replace(str.charAt(i), str.charAt(i).toUpperCase()))
+  }
+  return arr
+}
+
+*** Best solution
+function wave(str){
+  let arr = []
+  for (let i = 0; i < str.length; i++) {
+    let s = str.split('')
+    if (s[i] !== " ") {
+      s[i] = s[i].toUpperCase()
+      arr.push(s.join(''))
+    }
+  }
+  return arr
+}
+
+** Count characters in your string
+
+*** My solution
+function count(string) {
+  let obj = {}
+  let s = string.split('')
+  // for loop how many things inside of "s" array
+  for (let x in s) {
+    // insert s[x] inside of obj if it didn't exist then give it 0 and then add 1
+    obj[s[x]] = obj[s[x]] || 0
+    obj[s[x]]++
+  }
+  return obj
+}
+
+*** Best solution
+function count (string) {  
+  var obj = {};
+  // if obj[s] exist then add 1 if not give value of 1
+  string.split('').forEach(s => obj[s] ? obj[s]++ : obj[s] = 1)
+  return obj;
+}
