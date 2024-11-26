@@ -106,6 +106,18 @@ function isIsogram(str){
   return !str.match(/([a-z]).*\1/i);
 }
 
+** Categorize New Member
+
+*** My solution
+function openOrSenior(data){
+  return data.map((x, i, arr) => x[0] > 54 && x[1] > 7 ? "Senior" : "Open")
+}
+*** Best solution
+// Destructuring: [age, handicap] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+function openOrSenior(data){
+  return data.map(([age, handicap]) => (age > 54 && handicap > 7) ? 'Senior' : 'Open');
+}
+
 * Rank Up | 6 kyu
 ** Unique In Order
 
@@ -273,3 +285,19 @@ function count (string) {
   string.split('').forEach(s => obj[s] ? obj[s]++ : obj[s] = 1)
   return obj;
 }
+** Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!
+
+*** My solution
+*** Best solution
+function sumDigPow(a, b) {
+  let arr = [];
+  for(let i = a; i <= b; i++){
+    // get the current index and put it to a reduce()
+    // get the result of it's formula like this 89 = 8 ** 1 + 9 ** 2
+    if(i === i.toString().split('').reduce((total,current,index)=> total + current ** (index + 1), 0)){
+      arr.push(i);
+    }
+  }
+  return arr;
+}
+
