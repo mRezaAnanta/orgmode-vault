@@ -350,3 +350,25 @@ function persistence(num) {
   }
   return i;
 }
+** The Supermarket Queue
+
+*** My solution
+function queueTime(customers, n) {
+  console.log(customers, n)
+  let result = 0
+  if (customers.length < 1) return result
+  let slots = []
+  for (let i = 1; i <= n; i++) {
+    slots.push(customers.reduce((prev, cur, index, arr) => (index + 1) * i ? prev + cur : 0))
+  }
+  console.log(slots)
+  return slots.reduce((a, b) => a > b ? a : b)
+}
+*** Best solution
+function queueTime(customers, n) {
+  let arr = new Array(n).fill(0);
+  for (let x of customers) {
+    arr[arr.indexOf(Math.min(...arr))] += x
+  }
+  return Math.max(...arr);
+}
