@@ -145,3 +145,12 @@ CLOSED: [2024-10-04 Fri 10:17] SCHEDULED: <2024-10-03 Thu>
 
 Belajar cara perbaiki faucet
 
+* TODO [#A] Bilang sama mama
+SCHEDULED: <2024-12-12 Thu>
+:PROPERTIES:
+:CREATED:  [2024-12-09 Mon 19:51]
+:END:
+
+- si fona sama bela gausah ikot lg
+- klo uda dibayar tiketnya nanti fona sama bela ganti uangnya
+
