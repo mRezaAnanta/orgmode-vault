@@ -372,3 +372,63 @@ function queueTime(customers, n) {
   }
   return Math.max(...arr);
 }
+** Simple Encryption #1 - Alternating Split
+make an encryption process that takes the odd index, join them and put them in a new arr and then takes the even index, join them and then put it in that new arr after the odd index one. and repeat n times
+encrypt("012345", 1)  =>  "135024"
+encrypt("012345", 2)  =>  "135024"  ->  "304152"
+encrypt("012345", 3)  =>  "135024"  ->  "304152"  ->  "012345"
+
+encrypt("01234", 1)  =>  "13024"
+encrypt("01234", 2)  =>  "13024"  ->  "32104"
+encrypt("01234", 3)  =>  "13024"  ->  "32104"  ->  "20314"
+
+*** My solution
+function encrypt(text, n) {
+  let arr = text.split('')
+  //if (arr.length < 1) return ''
+  for (let i = 0; i < n; i++) {
+    arr = arr.filter((x, index) => index % 2 !== 0).concat(arr.filter((x, index) => index % 2 == 0))
+  }
+  return arr.join('')
+}
+
+function decrypt(encryptedText, n) {
+  let arr = encryptedText.split('')
+  let res = []
+  let odd = []
+  let even = []
+  if (arr.length % 2 == 0) {
+    console.log('even')
+    even.push(arr.slice(0, arr.length / 2))
+    odd.push(arr.slice((arr.length / 2) + 1, arr.length))
+  } else {
+    console.log('odd')
+    even.push(arr.slice(0, (arr.length / 2)))
+    odd.push(arr.slice(arr.length / 2, arr.length))
+  }
+  //console.log(arr, even, odd)
+  //console.log(odd[0])
+  //if (arr.length < 1) return ''
+  for (let i = 0; i < n; i++) {
+    for (let j = 0; j < odd[0].length; j++) {
+      res.push(odd[0][j])
+      res.push(even[0][j])
+      console.log(res)
+    }
+  }
+  return res.length > 0 ? res.join('') : arr.join('')
+  //return res.join('')
+}
+*** Best solution
+function encrypt(text, n) {
+  let arr = text.split('')
+  //if (arr.length < 1) return ''
+  for (let i = 0; i < n; i++) {
+    arr = arr.filter((x, index) => index % 2 !== 0).concat(arr.filter((x, index) => index % 2 == 0))
+  }
+  return arr.join('')
+}
+
+function decrypt(encryptedText, n) {
+
+}
