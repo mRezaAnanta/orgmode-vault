@@ -181,6 +181,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 :PROPERTIES:
 :CREATED:  [2024-12-12 Thu 23:59]
 :END:
+
 Setiap warga negara Indonesia berhak melakukan perjalanan keluar dan masuk Wilayah Indonesia
 
 *** Bab 2 - Pelaksanaan Fungsi Keimigrasian
@@ -192,6 +193,7 @@ Setiap warga negara Indonesia berhak melakukan perjalanan keluar dan masuk Wilay
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 - Untuk melaksanakan Fungsi Keimigrasian, Pemerintah menetapkan kebijakan Keimigrasian
 - Kebijakan Keimigrasian dilaksanakan oleh Menteri
 - Fungsi Keimigrasian di sepanjang garis perbatasan Wilayah Indonesia dilaksanakan oleh Pejabat Imigrasi yang meliputi Tempat Pemeriksaan Imigrasi dan pos lintas bata
@@ -200,6 +202,7 @@ Setiap warga negara Indonesia berhak melakukan perjalanan keluar dan masuk Wilay
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 - Untuk melaksanakan Fungsi Keimigrasian sebagaimana dimaksud dalam Pasal 3, dapat dibentuk Kantor Imigrasi di kabupaten, kota, atau kecamatan
 - Di setiap wilayah kerja Kantor Imigrasi dapat dibentuk Tempat Pemeriksaan Imigrasi
 - Pembentukan Tempat Pemeriksaan Imigrasi sebagaimana dimaksud pada ayat (2) ditetapkan berdasarkan Keputusan Menteri
@@ -210,18 +213,21 @@ Setiap warga negara Indonesia berhak melakukan perjalanan keluar dan masuk Wilay
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 Fungsi Keimigrasian di setiap Perwakilan Republik Indonesia atau tempat lain di luar negeri dilaksanakan oleh Pejabat Imigrasi dan/atau pejabat dinas luar negeri yang ditunjuk.
 
 **** Pasal 6
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 Pemerintah dapat melakukan kerja sama internasional di bidang Keimigrasian dengan negara lain dan/atau dengan badan atau organisasi internasional berdasarkan ketentuan peraturan perundang-undangan.
 
 **** Pasal 7
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 - Direktur Jenderal bertanggung jawab menyusun dan mengelola Sistem Informasi Manajemen Keimigrasian sebagai sarana pelaksanaan Fungsi Keimigrasian di dalam atau di luar Wilayah
 - Sistem Informasi Manajemen Keimigrasian dapat diakses oleh instansi dan/atau lembaga pemerintahan terkait sesuai dengan tugas dan fungsinya
 
@@ -234,6 +240,7 @@ Pemerintah dapat melakukan kerja sama internasional di bidang Keimigrasian denga
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 - Setiap orang yang masuk atau keluar Wilayah Indonesia wajib memiliki Dokumen Perjalanan yang sah dan masih berlaku
 - Setiap Orang Asing yang masuk Wilayah Indonesia wajib memiliki Visa yang sah dan masih berlaku, kecuali ditentukan lain berdasarkan Undang-Undang ini dan perjanjia
 
@@ -241,6 +248,7 @@ Pemerintah dapat melakukan kerja sama internasional di bidang Keimigrasian denga
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 - Setiap orang yang masuk atau keluar Wilayah Indonesia wajib melalui pemeriksaan yang dilakukan oleh Pejabat Imigrasi di Tempat Pemeriksaan
 - Pemeriksaan sebagaimana dimaksud pada ayat (1) meliputi pemeriksaan Dokumen Perjalanan dan/atau identitas diri yang sah
 - Dalam hal terdapat keraguan atas keabsahan Dokumen Perjalanan dan/atau identitas diri seseorang, Pejabat Imigrasi berwenang untuk melakukan penggeledahan terhadap badan dan barang bawaan dan dapat dilanjutkan dengan proses penyelidikan Keimigrasian
@@ -249,12 +257,14 @@ Pemerintah dapat melakukan kerja sama internasional di bidang Keimigrasian denga
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 Orang Asing yang telah memenuhi persyaratan dapat masuk Wilayah Indonesia setelah mendapatkan Tanda Masuk.
 
 **** Pasal 11
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 - Dalam keadaan darurat Pejabat Imigrasi dapat memberikan Tanda Masuk yang bersifat darurat kepada Orang Asing
 - Tanda Masuk sebagaimana dimaksud pada ayat (1) berlaku sebagai Izin Tinggal kunjungan dalam jangka waktu tertentu
 
@@ -262,12 +272,14 @@ Orang Asing yang telah memenuhi persyaratan dapat masuk Wilayah Indonesia setela
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 Menteri berwenang melarang Orang Asing berada di daerah tertentu di Wilayah Indonesia
 
 **** Pasal 13
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 - Pejabat Imigrasi menolak Orang Asing masuk Wilayah Indonesia dalam hal orang asing tersebut:
     - namanya tercantum dalam daftar Penangkalan
     - tidak memiliki Dokumen Perjalanan yang sah dan berlaku
@@ -285,6 +297,7 @@ Menteri berwenang melarang Orang Asing berada di daerah tertentu di Wilayah Indo
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 - Setiap warga negara Indonesia tidak dapat ditolak masuk Wilaya
 - Dalam hal terdapat keraguan terhadap Dokumen Perjalanan seorang warga negara Indonesia dan/atau status kewarganegaraannya, yang bersangkutan harus memberikan bukti lain yang sah dan meyakinkan yang menunjukkan bahwa yang bersangkutan adalah warga negara Indonesia
 - Dalam rangka melengkapi bukti sebagaimana dimaksud pada ayat (2), yang bersangkutan dapat ditempatkan dalam Rumah Detensi Imigrasi atau Ruang Detensi Imigrasi
@@ -293,12 +306,14 @@ Menteri berwenang melarang Orang Asing berada di daerah tertentu di Wilayah Indo
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 Setiap orang dapat keluar Wilayah Indonesia setelah memenuhi persyaratan dan mendapat Tanda Keluar dari Pejabat Imigrasi.
 
 **** Pasal 16
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 - Pejabat Imigrasi menolak orang untuk keluar Wilayah Indonesia dalam hal orang tersebut:
     - tidak memiliki Dokumen Perjalanan yang sah dan masih berlaku;
     - diperlukan untuk kepentingan penyelidikan dan penyidikan atas permintaan pejabat yang berwenang; atau
@@ -309,6 +324,7 @@ Setiap orang dapat keluar Wilayah Indonesia setelah memenuhi persyaratan dan men
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 - Penanggung Jawab Alat Angkut yang masuk atau keluar Wilayah Indonesia dengan alat angkutnya wajib melalui Tempat Pemeriksaan Imigrasi.
 - Penanggung Jawab Alat Angkut yang membawa penumpang yang akan masuk atau keluar Wilayah Indonesia hanya dapat menurunkan atau menaikkan penumpang di Tempat Pemeriksaan Imigrasi.
 - Nakhoda kapal laut wajib melarang Orang Asing yang tidak memenuhi persyaratan untuk meninggalkan alat angkutnya selama alat angkut tersebut berada di Wilayah Indonesia
@@ -317,6 +333,7 @@ Setiap orang dapat keluar Wilayah Indonesia setelah memenuhi persyaratan dan men
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 - Penanggung Jawab Alat Angkut yang datang dari luar Wilayah Indonesia atau akan berangkat keluar Wilayah Indonesia diwajibkan untuk:
     - sebelum kedatangan atau keberangkatan memberitahukan rencana kedatangan atau rencana keberangkatan secara tertulis atau elektronik kepada Pejabat Imigrasi;
     - menyampaikan daftar penumpang dan daftar awak alat angkut yang ditandatanganinya kepada Pejabat Imigrasi;
@@ -332,6 +349,7 @@ Setiap orang dapat keluar Wilayah Indonesia setelah memenuhi persyaratan dan men
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 - Penanggung Jawab Alat Angkut wajib memeriksa Dokumen Perjalanan dan/atau Visa setiap penumpang yang akan melakukan perjalanan masuk Wilayah Indonesia.
 - Pemeriksaan sebagaimana dimaksud pada ayat (1) dilakukan sebelum penumpang naik ke alat angkutnya yang akan menuju Wilayah
 - Penanggung Jawab Alat Angkut sebagaimana dimaksud pada ayat (1) wajib menolak untuk mengangkut setiap penumpang yang tidak memiliki Dokumen Perjalanan, Visa, dan/atau Dokumen Keimigrasian yang sah dan masih berlaku.
@@ -341,18 +359,21 @@ Setiap orang dapat keluar Wilayah Indonesia setelah memenuhi persyaratan dan men
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 Pejabat Imigrasi yang bertugas berwenang naik ke alat angkut yang berlabuh di pelabuhan, mendarat di bandar udara, atau berada di post lintas batas untuk kepentingan pemeriksaan Keimigrasian.
 
 **** Pasal 21
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 Dalam hal terdapat dugaan adanya pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 17 atau Pasal 18, Pejabat Imigrasi berwenang memerintahkan Penanggung Jawab Alat Angkut untuk menghentikan atau membawa alat angkutnya ke suatu tempat guna kepentingan pemeriksaan Keimigrasian
 
 **** Pasal 22
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 - Setiap Tempat Pemeriksaan Imigrasi ditetapkan suatu area tertentu untuk melakukan pemeriksaan Keimigrasian yang disebut dengan area tertentu untuk melakukan pemeriksaan Keimigrasian yang disebut dengan area imigrasi.
 - Area imigrasi merupakan area terbatas yang hanya dapat dilalui oleh penumpang atau awak alat angkut yang akan keluar atau masuk Wilayah Indonesia atau pejabat dan petugas yang berwenang.
 - Kepala Kantor Imigrasi bersama-sama dengan penyelenggara bandar udara, pelabuhan laut, dan pos lintas batas menetapkan area imigrasi sebagaimana dimaksud pada ayat (1).
@@ -362,6 +383,7 @@ Dalam hal terdapat dugaan adanya pelanggaran terhadap ketentuan sebagaimana dima
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 Ketentuan lebih lanjut mengenai persyaratan dan tata cara masuk dan keluar Wilayah Indonesia diatur dengan Peraturan Pemerintah.
 
 *** Bab 4 - Dokumen Perjalanan Republik Indonesia
@@ -373,6 +395,7 @@ Ketentuan lebih lanjut mengenai persyaratan dan tata cara masuk dan keluar Wilay
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 - Dokumen Perjalanan Republik Indonesia terdiri atas
     - Paspor; dan
     - Surat Perjalanan Laksana
@@ -390,6 +413,7 @@ Ketentuan lebih lanjut mengenai persyaratan dan tata cara masuk dan keluar Wilay
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 - Paspor diplomatik diterbitkan bagi warga negara Indonesia yang akan melakukan perjalanan keluar Wilayah Indonesia dalam rangka penempatan atau perjalanan tugas yang bersifat diplomatik
 - Paspor dinas diterbitkan bagi warga negara Indonesia yang akan melakukan perjalanan keluar Wilayah Indonesia dalam rangka penempatan atau perjalanan dinas yang tidak bersifat diplomati
 - Paspor diplomatik dan Paspor dinas sebagaimana dimaksud pada ayat (1) dan ayat (2) diterbitkan oleh Menteri Luar Negeri
@@ -398,6 +422,7 @@ Ketentuan lebih lanjut mengenai persyaratan dan tata cara masuk dan keluar Wilay
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 - Paspor biasa diterbitkan untuk warga negara Indonesia
 - Paspor biasa sebagaimana dimaksud pada ayat (1) diterbitkan oleh Menteri atau Pejabat Imigrasi yang ditunjuk
 
@@ -405,6 +430,7 @@ Ketentuan lebih lanjut mengenai persyaratan dan tata cara masuk dan keluar Wilay
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 - Surat Perjalanan Laksana Paspor untuk warga negara Indonesia dikeluarkan bagi warga negara Indonesia dalam keadaan tertentu jika Paspor biasa tidak dapat diberikan.
 - Surat Perjalanan Laksana Paspor untuk Orang Asing dikeluarkan bagi Orang Asing yang tidak mempunyai Dokumen Perjalanan yang sah dan negaranya tidak mempunyai perwakilan di Indonesia.
 - Surat Perjalanan Laksana Paspor sebagaimana dimaksud pada ayat (2) diberikan dalam hal:
@@ -417,12 +443,14 @@ Ketentuan lebih lanjut mengenai persyaratan dan tata cara masuk dan keluar Wilay
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 Surat Perjalanan Laksana Paspor dapat dikeluarkan untuk orang perseorangan atau kolektif.
 
 **** Pasal 29
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 - Surat perjalanan lintas batas atau pas lintas batas dapat dikeluarkan bagi warga negara Indonesia yang berdomisili di wilayah perbatasan negara Republik Indonesia dengan negara lain sesuai dengan perjanjian lintas batas.
 - Surat perjalanan lintas batas atau pas lintas batas diterbitkan oleh Menteri atau Pejabat Imigrasi yang ditunjuk
 
@@ -430,12 +458,14 @@ Surat Perjalanan Laksana Paspor dapat dikeluarkan untuk orang perseorangan atau 
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 Setiap warga negara Indonesia hanya diperbolehkan memegang 1 (satu) Dokumen Perjalanan Republik Indonesia yang sejenis atas namanya sendiri yang masih berlaku.
 
 **** Pasal 31
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 - Menteri atau Pejabat Imigrasi yang ditunjuk berwenang melakukan penarikan atau pencabutan Paspor biasa, Surat Perjalanan Laksana Paspor, dan surat perjalanan lintas batas atau pas lintas batas yang telah dikeluarkan.
 - Menteri Luar Negeri atau pejabat yang ditunjuk berwenang melakukan penarikan atau pencabutan Paspor diplomatik dan Paspor dinas.
 - Penarikan Paspor biasa dilakukan dalam hal:
@@ -446,6 +476,7 @@ Setiap warga negara Indonesia hanya diperbolehkan memegang 1 (satu) Dokumen Perj
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 - Menteri atau Pejabat Imigrasi yang ditunjuk bertanggung jawab atas perencanaan, pengadaan, penyimpanan, pendistribusian, dan pengamanan blanko dan formulir:
     - Paspor biasa;
     - Surat Perjalanan Laksana Paspor; dan
@@ -463,6 +494,7 @@ Setiap warga negara Indonesia hanya diperbolehkan memegang 1 (satu) Dokumen Perj
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 Ketentuan lebih lanjut mengenai tata cara dan persyaratan pemberian, penarikan, pembatalan, pencabutan, penggantian, serta pengadaan blanko dan standardisasi Dokumen Perjalanan Republik Indonesia diatur dengan Peraturan Pemerintah
 
 *** Bab 5 - Visa tanda masuk dan Izin Tinggal
@@ -474,6 +506,7 @@ Ketentuan lebih lanjut mengenai tata cara dan persyaratan pemberian, penarikan, 
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 Visa terdiri atas:
     - Visa diplomatik
     - Visa dinas
@@ -484,20 +517,40 @@ Visa terdiri atas:
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 Visa diplomatik diberikan kepada Orang Asing pemegang Paspor diplimatik dan paspor lain untuk mmasuk Wilayah Indonesia guna melaksanakan tugas yang bersifat diplomatik.
 
 **** Pasal 36
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+
 Visa dinas diberikan kepada Orang Asing pemegang Paspor dinas dan Paspor lain yang akan melakukan perjalanan ke Wilayah Indonesia dalam rangka melaksanakan tugas resmi yang tidak bersifat diplomatik dari pemerintah asing yang bersangkutan atau organisasi internasional.
 
-**** Pasal 6
+**** Pasal 37
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
 
-**** Pasal 7
+Pemberian Visa diplomatik dan Visa dinas merupakan kewenangan Menteri Luar Negeri dan dalam pelaksanaannya dikeluarkan oleh pejabat dinas luar negeri di Perwakilan Republik Indonesia.
+
+**** Pasal 38
+:PROPERTIES:
+:CREATED:  [2024-12-13 Fri 00:00]
+:END:
+
+Visa kunjungan diberikan kepada Orang Asing yang akan melakukan perjalanan ke Wilayah Indonesia dalam rangka kunjungan tugas pemerintahan, pendidikan, sosial budaya, pariwisata, bisnis, keluarga, jurnalistik, atau singgah untuk meneruskan perjalanan ke negara lain.
+
+**** Pasal 39
+:PROPERTIES:
+:CREATED:  [2024-12-13 Fri 00:00]
+:END:
+
+Visa tinggal terbatas diberikan kepada Orang Asing:
+- sebagai rohaniawan, tenaga ahli, pekerja, peneliti, pelajar, investor, lanjut usia, dan keluarganya, serta Orang Asing yang kawin secara sah dengan warga negara Indonesia, yang akan melakukan perjalanan ke Wilayah Indonesia untuk bertempat tinggal dalam jangka waktu yang terbatas; atau
+- dalam rangka bergabung untuk bekerja di atas kapal, alat apung, atau instalasi yang beroperasi di wilayah perairan nusantara, laut teritorial, landas kontinen, dan/atau Zona Ekonomi Eksklusif Indonesia.
+
+**** Pasal 40
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
