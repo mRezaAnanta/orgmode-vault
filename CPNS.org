@@ -603,8 +603,44 @@ Permohonan Visa ditolak dalam hal pemohon:
 :PROPERTIES:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
+1. Tanda Masuk bagi Orang Asing pemegang Visa diplomatik atau Visa dinas yang melakukan kunjungan singkat di Indonesia berlaku juga sebagai Izin Tinggal diplomatik atau Izin Tinggal dinas.
+2. Tanda Masuk bagi Orang Asing yang dibebaskan dari kewajiban memiliki Visa atau pemegang Visa kunjungan berlaku juga sebagai Izin Tinggal kunjungan.
 
-*** Bab 6
+**** Pasal 46
+:PROPERTIES:
+:CREATED:  [2024-12-13 Fri 00:00]
+:END:
+1. Orang Asing pemegang Visa diplomatik atau Visa dinas dengan maksud bertempat tinggal di Wilayah Indonesia setelah mendapat Tanda Masuk wajib mengajukan permohonan kepada Menteri Luar Negeri atau pejabat yang ditunjuk untuk memperoleh Izin Tinggal diplomatik atau Izin Tinggal dinas.
+2. Orang Asing pemegang Visa tinggal terbatas setelah mendapat Tanda Masuk wajib mengajukan permohonan kepada kepala Kantor Imigrasi untuk memperoleh Izin Tinggal terbatas.
+(3) Jika Orang Asing sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak melaksanakan kewajiban tersebut, Orang Asing yang bersangkutan dianggap berada di Wilayah Indonesia secara tidak sah.
+
+**** Pasal 47
+:PROPERTIES:
+:CREATED:  [2024-12-13 Fri 00:00]
+:END:
+Ketentuan lebih lanjut mengenai persyaratan dan tata cara permohonan, jenis kegiatan, dan jangka waktu Visa, serta tata cara pemberian Tanda Masuk diatur dengan Peraturan Pemerintah.
+
+**** Pasal 48
+:PROPERTIES:
+:CREATED:  [2024-12-13 Fri 00:00]
+:END:
+1. Setiap Orang Asing yang berada di Wilayah Indonesia wajib memiliki Izin Tinggal.
+2. Izin Tinggal diberikan kepada Orang Asing sesuai dengan Visa yang dimilikinya.
+3. Izin Tinggal sebagaimana dimaksud pada ayat (1) terdiri atas:
+    1. Izin Tinggal diplomatik;
+    2. Izin Tinggal dinas;
+    3. Izin Tinggal kunjungan;
+    4. Izin Tinggal terbatas; dan
+    5. Izin Tinggal Tetap;
+4. Menteri berwenang melarang Orang Asing yang telah diberi Izin Tinggal berada di daerah tertentu di Wilayah Indonesia.
+5. Terhadap Orang Asing yang sedang menjalani penahanan untuk kepentingan proses penyidikan, penuntutan, dan pemeriksaan di sidang pengadilan atau menjalani pidana kurungan atau pidana penjara di lembaga pemasyarakatan, sedangkan izin tinggalnya telah lampau waktu, Orang Asing tersebut tidak dikenai kewajiban sebagaimana dimaksud pada ayat (1).
+
+**** Pasal 48
+:PROPERTIES:
+:CREATED:  [2024-12-13 Fri 00:00]
+:END:
+
+*** Bab 6 - Pengawasan Keimigrasian
 :PROPERTIES:
 :CREATED:  [2024-12-12 Thu 23:59]
 :END:
@@ -634,7 +670,7 @@ Permohonan Visa ditolak dalam hal pemohon:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
 
-*** Bab 7
+*** Bab 7 - Tindakan Administratif Keimigrasian
 :PROPERTIES:
 :CREATED:  [2024-12-12 Thu 23:59]
 :END:
@@ -664,7 +700,7 @@ Permohonan Visa ditolak dalam hal pemohon:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
 
-*** Bab 8
+*** Bab 8 - Rumah detensi Imigrasi dan Ruang Detensi Imigrasi
 :PROPERTIES:
 :CREATED:  [2024-12-12 Thu 23:59]
 :END:
@@ -694,7 +730,7 @@ Permohonan Visa ditolak dalam hal pemohon:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
 
-*** Bab 9
+*** Bab 9 - Pencegahan dan Penangkalan
 :PROPERTIES:
 :CREATED:  [2024-12-12 Thu 23:59]
 :END:
@@ -724,7 +760,7 @@ Permohonan Visa ditolak dalam hal pemohon:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
 
-*** Bab 10
+*** Bab 10 - Penyidikan
 :PROPERTIES:
 :CREATED:  [2024-12-12 Thu 23:59]
 :END:
@@ -754,7 +790,7 @@ Permohonan Visa ditolak dalam hal pemohon:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
 
-*** Bab 11
+*** Bab 11 - Ketentuan Pidana
 :PROPERTIES:
 :CREATED:  [2024-12-12 Thu 23:59]
 :END:
@@ -784,7 +820,7 @@ Permohonan Visa ditolak dalam hal pemohon:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
 
-*** Bab 12
+*** Bab 12 - Biaya
 :PROPERTIES:
 :CREATED:  [2024-12-12 Thu 23:59]
 :END:
@@ -814,7 +850,7 @@ Permohonan Visa ditolak dalam hal pemohon:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
 
-*** Bab 13
+*** Bab 13 - Ketentuan Lain-lain
 :PROPERTIES:
 :CREATED:  [2024-12-12 Thu 23:59]
 :END:
@@ -844,7 +880,7 @@ Permohonan Visa ditolak dalam hal pemohon:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
 
-*** Bab 14
+*** Bab 14 - Ketentuan Peralihan
 :PROPERTIES:
 :CREATED:  [2024-12-12 Thu 23:59]
 :END:
@@ -874,7 +910,7 @@ Permohonan Visa ditolak dalam hal pemohon:
 :CREATED:  [2024-12-13 Fri 00:00]
 :END:
 
-*** Bab 15
+*** Bab 15 - Penutup
 :PROPERTIES:
 :CREATED:  [2024-12-12 Thu 23:59]
 :END:
