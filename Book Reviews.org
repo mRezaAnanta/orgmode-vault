@@ -143,6 +143,7 @@ Ahlul Fatrah adalah orang-orang yang risalah Nabi Muhammad Saw belum sampai kepa
 Aqidah merupakan perkara paling penting dan kewajiban terbesar. Hakikat Aqidah adalah beriman kepada Allah, kepada para malaikat, kitab-kitabnya, rasul-rasulnya, hari akhir dan kepada takdir yang baik maupun yang buruk. Beriman bahwa Allah adalah satu-satunya yang berhak di ibadahi, dan mempersaksikan akan hal tersebut, yaitu mempersaksikan bahwa tidak ada yang berhak diibadahi kecuali Allah. Seorang mukmin mempersaksikan bahwa tidak ada yang berhak diibadahi kecuali Dia yang Maha Suci dan Maha Tinggi. Juga mempersaksikan bahwa Muhammad adalah Rasul utusan Allah, Allah mengutus beliau kepada seluruh jin dan manusia, beliau adalah penutup seluruh para nabi. Semua ini harus dia imani, ini merupakan inti aqidah, sehingganya harus dimiliki oleh setiap orang baik lelaki maupun wanita. Ini merupakan azas Islam, azas agama. Sebagaimana juga wajib beriman terhadap segala yang diberitakan oleh Allah dan Rasulnya dari berita-berita tentang kiamat, tentang surga dan neraka, tentang pengadilan dan pembalasan, tentang pembagian buku catatan amal, dimana ada yang menerimanya dengan tangan kanan serta ada yang menerimanya dengan tangan kiri, tentang penimbangan amal dan lain sebagainya dari berita-berita yang telah dibawa oleh Al-Quran dan Hadits-Hadits Nabi Muhammad.
 Kejahilan dalam perkara ini bukanlah udzur, setiap mukmin wajib mengetahui ini dan mencari tahu tentangnya, tidak diberi udzur baginya jika kemudian ia berkata diriku bodoh tentang perkara-perkara ini, sementara ia hidup ditengah kaum muslimin, Al-Quran dan Sunnah Rasulullah telah sampai kepadanya, orang seperti ini disebut pembangkang, disebut juga orang tidak peduli dan acuh terhadap perkara yang penting seperti ini, ia tidak diberi udzur. Adapun orang yang hidup dilokasi yang jauh dari umat Islam, diujung dunia yang tidak berpenghunikan orang islam sama sekali, Al-Quran dan Sunnah belum sampai kepadanya, maka orang seperti ini diberi udzur dan statusnya adalah ahlul fatrah jika ia sampai mati dalam keadaannya tersebut.
 Perkara udzur kejahilan ini (aqidah) bukanlah perkara ijtihadiyah yang berubah-ubah tergantung waktu dan tempat. Kecuali jika ia hidup ditempat yang dakwah belum menjangkaunya, Al-Quran dan Sunnah belum menjangkaunya.
+**** TODO (QS. Al-An'am : 88)
 
 *** Hukum Udzur Kejahilan dalam Perkara Tauhid
 
@@ -152,6 +153,23 @@ Orang yang tidak beriman akan hal ini maka tidak ada udzur baginya. Kecuali jika
 Telah Shahih dari Nabi Muhammad bahwa beliau bersabda kepada seorang yang bertanya tentang ayahnya : (HR. Muslim No. 203 Kitab Iman Bab Penjelasan barangsiapa yang Mati Diatas Kekafiran)
 Ayah beliau wafat pada masa jahiliyah, karena mereka kala itu statusnya berada dalam syariat yang mereka terima dari Nabi Ibrahim, yaitu tauhid. Sedangkan ibu beliau juga wafat dalam kejahiliyahan, (TODO: Cari Hadisnya) Beliau meminta ijin kepada Allah untuk mendo'akan ampunan bagi sang ibu namun Allah tidak mengizinkan. Kemudian beliau meminta izin kepada Allah untuk mengunjungi makam sang ibu maka Allah mengizinkannya. (TODO: Cari Ayat yang menjelaskan bahwa tidak boleh meminta ampunan bagi orang kafir) Ini semua menunjukkan bahwa siapapun yang mati kafir maka tidak boleh dimintakan ampunan kepada Allah atau didoakan kepada Allah, meskipun matinya dimasa kejahiliyahan. Maka terlebih lagi jika ia hidup ditengah kaum muslimin, diantara ahli tauhid, diantara orang-orang yang membaca Al-Quran serta mendengar Hadits-Hadits Rasulullah, tentu orang ini lebih pantas untuk dinyatakan sebagai kafir serta hukum yang diterapkan kepada orang-orang kafir juga diterapkan kepadanya. Realitanya, banyak dari mereka apabila mendengar orang yang mendakwahkan tauhid dan memperingatkannya dari kesyirikan maka akan menolak, sombong dan menentang atau bahkan memilih berperang demi agamanya yang batil, demi taklidnya kepada para leluhurnya. (Todo: )La haula wala quwwata illa billah
 
-*** Persoalan Udzur Kejahilan dalam Perkara Fiqh, Dll
+*** Persoalan Udzur Kejahilan dalam Perkara Islam selain Aqidah Seperti Fiqh, DLL
 
-Adapun persoalan-persoalan yang terkadang hukumnya samar bagi sebagian orang seperti sebagian hukum shalat atau sebagian hukum zakat atau sebagian hukum haji, atau dalam cabang pembahasan sifat Allah, disebagian sifat Allah yang terkadang tidak diketahui, dalam perkara ini terkadang seseorang diberi udzur kejahilan atasnya, karena tidak semua orang mampu mendalami persoalan-persoalan seperti ini, jadi perkaranya lebih ringan. 
+Adapun persoalan-persoalan yang terkadang hukumnya samar bagi sebagian orang seperti sebagian hukum shalat atau sebagian hukum zakat atau sebagian hukum haji, atau dalam cabang pembahasan sifat Allah, disebagian sifat Allah yang terkadang tidak diketahui, dalam perkara ini terkadang seseorang diberi udzur kejahilan atasnya, karena tidak semua orang mampu mendalami persoalan-persoalan seperti ini, jadi perkaranya lebih ringan.
+Contohnya Nabi Muhammad SAW memberi udzur orang yang sudah ihram memakai gamis dan ia mengolesi badannya dengan minyak wangi. Karena orang tersebut jahil maka Nabi tidak memerintahkannya untuk membayar fidyah sebab memakai gamis dan memakai minyak wangi.
+**** TODO HR. Bukhari 1789 dan Muslim 1180
+
+*** Persoalan Udzur Kejahilan dalam Perkara Syirik
+
+Perbuatan Syirik terlebih lagi syirik akbar merupakan hal yang sudah di tetapkan dalam aqidah sehingga jika seseorang tidak mengetahui perbuatannya itu merupakan perbuatan syirik maka dia tidak diberikan udzur kejahilan.
+
+Salah satu contoh syirik akbar adalah
+- beristighosah kepada orang mati
+
+Jika orang yang melakukan syirik akbar tersebut kembali kepada Allah serta beristigfar memohon ampunan dari perbuatannya maka hilang vonis musyrik dari dirinya dan terbukti kembali keislamannya. Adapun jika ia tetap bertahan diatas keyakinannya seperti yang dikemukakan di atas maka ia tetap berstatus musyrik hingga ia bertaubat kepada Allah dari perbuatan syirik tersebut.
+
+*** Persoalan Udzur Kejahilan dalam Perkara Mengolok-olok Agama
+
+Jika seseorang menista/mengolok-olok Allah dan Rasulullah atau menista dan mengolok-olok Agama Islam, atau mengolok-olok surga dan neraka, maka sholat, puasa serta semua amalannya tidaklah berguna baginya dikarenakan mengolok-olok / menista Agama merupakan salah satu pembatal keislaman. Apabila didapati dalam diri seseorang salah satu pembatal keislaman maka sirnalah seluruh amalannya hingga ia bertaubat kepada Allah dari pembatal tersebut.
+**** TODO (QS. Al-An'am : 88)
+**** TODO (QS. Az-Zumar : 65-66)
