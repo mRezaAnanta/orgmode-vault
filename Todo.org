@@ -154,3 +154,68 @@ SCHEDULED: <2024-12-14 Sat 11:30>
 - si fona sama bela gausah ikot lg
 - klo uda dibayar tiketnya nanti fona sama bela ganti uangnya
 
+* Barang perlu dibawa
+:PROPERTIES:
+:CREATED:  [2025-01-03 Fri 23:56]
+:END:
+
+** Baju fona 5
+:PROPERTIES:
+:CREATED:  [2025-01-03 Fri 23:57]
+:END:
+
+** Baju tata 5
+:PROPERTIES:
+:CREATED:  [2025-01-03 Fri 23:57]
+:END:
+
+** Celana fona 3
+:PROPERTIES:
+:CREATED:  [2025-01-03 Fri 23:58]
+:END:
+
+** Celana dalam
+:PROPERTIES:
+:CREATED:  [2025-01-03 Fri 23:58]
+:END:
+
+** Sepatu tata, fona, aneuk
+:PROPERTIES:
+:CREATED:  [2025-01-04 Sat 00:05]
+:END:
+
+** Skincare
+:PROPERTIES:
+:CREATED:  [2025-01-03 Fri 23:59]
+:END:
+
+** Baju aneuk 8
+:PROPERTIES:
+:CREATED:  [2025-01-03 Fri 23:58]
+:END:
+
+** Sabun cuci muka
+:PROPERTIES:
+:CREATED:  [2025-01-03 Fri 23:59]
+:END:
+
+** Celana aneuk 8
+:PROPERTIES:
+:CREATED:  [2025-01-03 Fri 23:59]
+:END:
+
+** Sikat gigi
+:PROPERTIES:
+:CREATED:  [2025-01-03 Fri 23:59]
+:END:
+
+** Minyak gpu
+:PROPERTIES:
+:CREATED:  [2025-01-04 Sat 02:33]
+:END:
+
+** Celana tata 3
+:PROPERTIES:
+:CREATED:  [2025-01-03 Fri 23:57]
+:END:
+
