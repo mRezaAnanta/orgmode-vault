@@ -1,17 +1,12 @@
 * Marhalah Ta'rif 1
 :PROPERTIES:
 :CREATED:  [2024-12-10 Tue 20:44]
+:VERSION:  0.1
 :END:
 
 ** Adab Tarbiyah
-:PROPERTIES:
-:CREATED:  [2024-12-10 Tue 20:44]
-:END:
 
 *** Tujuan
-:PROPERTIES:
-:CREATED:  [2024-12-10 Tue 20:46]
-:END:
 
 Agar peserta
 - memahami pentingnya kedudukan akhlak dan adab dalam islam
@@ -19,9 +14,6 @@ Agar peserta
 - agar termotivasi untuk meraih keberkahan majelis
 
 *** Adab Majelis
-:PROPERTIES:
-:CREATED:  [2024-12-10 Tue 20:49]
-:END:
 
 **** Memilih majelis
 
@@ -40,7 +32,7 @@ Referensi :
 **** Husnul Haia'h (Berpenampilan baik)
 
 Referensi :
-- QS. Al - A'raf 7: 31
+- QS. Al-A'raf 7: 31
 - HR. Muslim 8
 
 **** Mengucapkan salam saat datang dan pulang
@@ -84,9 +76,6 @@ Referensi :
 - HR. AL-Tirmidzi 3502 dan 3433
 
 *** Adab Mutarabbi Terhadap Murabbi
-:PROPERTIES:
-:CREATED:  [2024-12-10 Tue 20:49]
-:END:
 
 **** Menjaga kehormatannya
 
@@ -97,32 +86,159 @@ Referensi :
 
 Referensi :
 - Shahih Al-Jami' 4434
+
 **** Menghormatinya 
 
 - tawadhu' (rendah hati/tidak sombong) kepadanya
 - memuliakannya
 - bersungguh-sungguh dalam berkhidmat (berbuat/mengabdi/melayani) kepada gurunya
 - tidak mendahuluinya dalam tindakan
+
 **** Bermulazamah (konsisten) kepadanya
 
 - mengambil faidah dari ilmunya; dan
 - faidah adabnya
+
 **** Beradab saat duduk didepannya
 
 - berkonsentrasi
-- mengkonsentrasikan seluruh pemikiran dan panca indra 
+- mengkonsentrasikan seluruh pemikiran dan panca indra
+
 **** Bersabar terhadapnya
+
 **** Berprasangka baik kepadanya
+
 **** Menyimak dengan baik penjelasan murabbi
+
 **** Tidak malu untuk bertanya 
 
 - bertanya dengan baik dan lembut
 - tidak bertanya selain hal-hal yang dimaterikan kecuali diizinkan 
 - tidak mengulang-ulang pertanyaan 
 - mengoreksi dengan cara yang lembut
+
 **** Tidak berlagak pintar dihadapan murabbi
 
 ** Qadayatul Ummatil Islamiyyah (Problematika Ummat Islam)
-:PROPERTIES:
-:CREATED:  [2024-12-10 Tue 20:44]
-:END:
+
+*** Tujuan
+
+- menumbuhkan kesadaran bahwa memperhatikan masalah-masalah kaum muslimin adalah bagian dari sifat seorang muslim
+- mengetahui kondisi dan realitas ummat islam
+- mengetahui sebab terjadinya problema ummat dan solusinya
+- menumbuhkan kesadaran untuk terlibat aktif dalam mengatasi masalah-masalah yang dialami ummat
+
+*** Misaliyyah : Konsep Ideal
+
+**** Ummat terbaik
+
+- selalu mengajak kepada kebaikan
+- mencegah dari kemungkaran
+- beriman kepada Allah (QS. Ali 'Imran 3:110)
+
+**** Ummat pertengahan (QS. Al-Baqarah 2: 143)
+
+- seimbang antara perkara dunia dan akhirat (QS. Al-Qasas 28:77 & QS. Al-Baqarah 2:143)
+- seimbang antara kepentingan individu dan masyarakat
+- seimbang antara unsur material dan spiritual
+- tidak berlebih-lebihan dan tidak meremehkan (QS. Al-Furqan 25:67)
+
+**** Ummat yang satu (QS. Al-Mu'minun 23:52 & QS. Al-Anbiya 21:92)
+
+- aqidah
+- kepemimpinan
+- jama'ah
+
+*** Waqi'iyyah (Kondisi Realita)
+
+**** Kemunduran atau keterbelakangan
+
+- memerintahkan kemungkaran dan mencegah kebaikan
+- mengakal-akal syariat
+- mengikuti millah (kebiasaan) orang kafir (HR. Muslim 2669)
+- meninggalkan jihad (HR. Muslim Juz 4, Hal 252)
+- ridha (cinta dunia)
+
+**** Taqlid (ikut-ikutan)
+
+- pola fikir
+- keyakinan
+- suluk (penampilan) (QS. Al-Ahzab 33:33)
+- dustur (peraturan)
+
+**** Perpecahan
+
+- jatuhnya khilafah islamiyyah
+- perpecahan dalam pemahaman
+- perpecahan dalam aqidah dan ibadah
+
+*** Asbab Attakhalufi
+
+**** Sebab internal
+
+- lemahnya aqidah dan iman; karena cinta dunia (Sunan Abu Daud Juz 12 Hal 423) dan meninggalkan jihad
+- lemahnya ukhuwah
+- tidak ada pemimpin ummat
+- kebodohan karena tidak ada kesadaran belajar
+
+**** Sebab eksternal; melalui konspirasi musuh (HR. Sunan Abu Daud Juz 12 Hal 423)
+
+- perang militer
+- perang pemikiran
+
+*** Asbab Arrais (penyebab paling utama)
+
+adalah jauhnya ummat islam dari kitabullah dan sunnah (QS. Az-Zukhruf 43:36-37).
+
+solusi :
+- kembali kepada kitabullah dan sunnah (QS. Al-Jumu'ah 62:2)
+- melaksanakan tarbiyah islamiyyah yang istimrar (berkelanjutan) dalam rangka membentuk generasi rabbani yang kembali pada kitabullah dan sunnah
+
+** Al-Quran Al Karim
+
+*** Tujuan
+
+- agar bersyukur kepada Allah atas karunianya menurunkan Al-Quran sebagai petunjuk
+- agar kembali kepada Al-Quran dan menjadikannya sebagai dusturul hayyah (peraturan hidup)
+
+*** Pengertian Al-Quran
+
+**** Secara bahasa
+
+- berasal dari kata "" yang bermakna membaca
+- berasal dari kata "" yang bermakna mengumpulkan (QS. Al-Qiyamah 75:17-18)
+- kata kerja tanpa hamzah "" yang bermakna "" yaitu ketika menggabungkan sesuatu kepada yang lain
+
+**** Secara istilah
+
+adalah firman Allah yang diturunkan kepada Rasulullah, lafaznya adalah mukjizat, membacanya adalah ibadah, tertulis didalam mushaf, dan dinukil secara mutawatir
+
+*** Ahammiyatul Al-Quran Fi Hayatil Muslim (Urgensi Al-Quran dalam kehidupan muslim)
+
+**** Kedudukan Al-Quran dalam kehidupan kaum muslim
+
+- Al-Quran sebagai faktor terbesar dalam mempersatukan ummat
+- Al-Quran sebagai manhaj tarbiyah bagi kaum muslimin (QS. Ali 'Imran 3:79,138 & QS. Al-Qamar 54:17,22)
+- Al-Quran sebagai manhaj hidup kaum muslimin
+
+**** Sasaran pokok Al-Quran dalam kehidupan kaum muslimin
+
+- memberi hidayah ke jalan Allah (QS. Al-Ma'idah 5:15-16, QS. Fushilat 41:44, QS. Al-Isra' 17:9, & QS. As-Syura 42:52)
+- membentuk masyarakat Quraini yang saling bekerja sama (QS. Ali 'Imran 3:103)
+- membentengi ummat dari musuh-musuhnya (QS. Al-Furqan 25:52)
+
+**** Manhaj Al-Quran dalam memperbaiki kaum muslimin
+
+- berproses dalam syariat (QS. Al-Isra' 17:106 & QS. Al-Baqarah 2:106)
+- menanamkan rasa puas (QS. Al-Mujadilah 58:22)
+- mengulang-ulang (QS. Al-An'am 6:105, QS. Al-Kahfi 18:54, & QS. Asy-Syams 91:7-10)
+- mengarahkan ganzah (semangat)
+- seimbang (QS. An-Nisa 4:134, QS. Al-Qashash 28:77, & Al-Baqarah 2:200-202)
+- mengkaji sejarah untuk pelajaran (QS. Yusuf 7:111 & QS. Al-A'raf 7:176)
+
+**** Pengaruh Al-Quran dalam kehidupan ummat
+
+- mengeluarkan dari syirik ke tauhid (QS. Shad 38:5)
+- dari kegelapan kepada cahaya (QS. Al-Baqarah 2:256-257)
+- dari permusuhan kepada kecintaan (QS. Ali 'Imran 3:103)
+- dari kehinaan kepada kemuliaan (QS. Al-Munafiqun 63:8)

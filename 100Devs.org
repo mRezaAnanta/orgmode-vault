@@ -89,3 +89,14 @@ https://docs.google.com/document/d/1UERcWv8rIPROZXEZG5ZFBE6_z8Yhl90ZhAla_owahP0/
 The process of storing functions (methods) with their associated data (properties) in one thing/object
 *** Abstraction
 Hide details and show essentials. Simple, predictable, manageable
+
+* Class 31
+** Object Oriented Programming
+*** Why use oop?
+- easier working with a larger code bases and organization
+- easier understanding of code
+- easier to add more features without it breaking
+*** Encapsulation
+The process of storing functions (methods) with their associated data (properties) in one thing/object
+*** Abstraction
+Hide details and show essentials. Simple, predictable, manageable
