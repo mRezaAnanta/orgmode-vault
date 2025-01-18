@@ -1,2 +1,49 @@
 #+title: Agenda
 
+* [#A] Daily
+:PROPERTIES:
+:CREATED:  [2025-01-18 Sat 02:12]
+:END:
+
+** TODO Rock-paper-scissors project
+SCHEDULED: <2025-01-18 Sat .+1d>
+:PROPERTIES:
+:CREATED:  [2025-01-18 Sat 02:11]
+:END:
+
+Add more functionality to the app and watch the crud video
+
+** TODO Add 1 chapter to Al-Quran.org
+SCHEDULED: <2025-01-18 Sat .+1d>
+:PROPERTIES:
+:CREATED:  [2025-01-18 Sat 02:07]
+:END:
+
+** TODO Balatro
+SCHEDULED: <2025-01-18 Sat .+1d>
+:PROPERTIES:
+:CREATED:  [2025-01-18 Sat 02:14]
+:END:
+
+Add more functionality
+
+** TODO Tarbiyah org
+SCHEDULED: <2025-01-18 Sat .+1d>
+:PROPERTIES:
+:CREATED:  [2025-01-18 Sat 02:14]
+:END:
+
+** TODO Project manager
+SCHEDULED: <2025-01-18 Sat .+1d>
+:PROPERTIES:
+:CREATED:  [2025-01-18 Sat 04:36]
+:END:
+
+** TODO Consumer action taskforce
+SCHEDULED: <2025-01-18 Sat .+1d>
+:PROPERTIES:
+:CREATED:  [2025-01-18 Sat 04:38]
+:END:
+
+Contribute to the wiki
+
